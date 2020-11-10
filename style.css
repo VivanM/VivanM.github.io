@@ -136,3 +136,8 @@ li {
   50% { color: #d2dde6; }
   100% { color: #fbdfff; }
 }
+
+.coolimg {
+	width: 400px;
+	height: 300px;
+}
